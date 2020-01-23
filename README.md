@@ -21,7 +21,7 @@ As informações sobre gasto calórico, evolução da performance, cuidados pós
 
 ## Público alvo
 
-Atletas iniciantes, intermediários ou avançados que queiram um acompanhamento completo sobre sua evolução na prática de atividade(s) física(s).
+Atletas de todos os níveis que queiram um acompanhamento completo sobre sua evolução na prática de atividade(s) física(s).
 
 ## License
 
