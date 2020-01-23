@@ -1,5 +1,14 @@
 # Design-Thinking
 
+[![GitHub license](https://img.shields.io/github/license/lumunizf/Design-Thinking)](https://github.com/lumunizf/Design-Thinking/blob/master/LICENSE)
+![GitHub top language](https://img.shields.io/github/languages/top/lumunizf/Design-Thinking)
+[![GitHub issues](https://img.shields.io/github/issues/lumunizf/Design-Thinking)](https://github.com/lumunizf/Design-Thinking/issues) 
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/lumunizf/Design-Thinking)](https://img.shields.io/github/issues-closed/lumunizf/Design-Thinking)
+[![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/Design-Thinking)](https://github.com/lumunizf/Design-Thinking/commits/master)
+[![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
+[![Twitter: Follow](https://img.shields.io/twitter/follow/lumunizf?label=Follow&style=flat)](https://twitter.com/lumunizf) 
+[![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
+
 :star: Projeto prático da criação de um APP.
 
 ## Problema a ser solucionado
