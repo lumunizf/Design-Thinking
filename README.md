@@ -9,7 +9,7 @@
 [![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
 
-:star: Projeto prático da criação de um APP.
+:star: **Projeto de criação de um APP utilizando design thinking.**
 
 ## Problema a ser solucionado
 
@@ -17,7 +17,7 @@ Pessoas que praticam atletismo não conseguem visualizar em um único aplicativo
 
 ## Motivação
 
-As informações sobre gasto calórico, evolução da performance, cuidados pós treino e alimentação adequada ao seu tipo físico, quando associadas, têm potencial de acelerar os resultados e manter a motivação em alta.
+As informações sobre gasto calórico, evolução da performance, cuidados pós treino e alimentação adequada ao seu tipo físico, quando associadas, têm potencial de acelerar os resultados e manter a motivação do atleta em alta.
 
 ## Público alvo
 
