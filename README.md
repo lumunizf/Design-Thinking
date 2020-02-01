@@ -9,7 +9,7 @@
 [![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
 
-:star: **Projeto de criação de um APP utilizando design thinking.**
+:star: **Projeto da criação de um APP utilizando os processos de design thinking.**
 
 ## Problema a ser solucionado
 
